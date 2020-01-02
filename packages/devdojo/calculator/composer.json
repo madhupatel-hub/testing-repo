@@ -1,0 +1,10 @@
+{
+    "name": "devdojo/calculator",
+    "authors": [
+        {
+            "name": "madhu",
+            "email": "madhu.constacloud@gmail.com"
+        }
+    ],
+    "require": {}
+}
